@@ -11,5 +11,5 @@
       - [1.3 Arduino Uno功能簡介](http://openhome.cc/Gossip/Books/mBlockArduino1-3and1-4.html#1-3)
       - [1.4 結語](http://openhome.cc/Gossip/Books/mBlockArduino1-3and1-4.html#1-4)
 
-- 範例檔案
-- mBlock 正體中文語系檔案 
+- [範例檔案](https://github.com/JustinSDK/mBlockArduino/tree/master/samples)
+- [mBlock 正體中文語系檔案](https://github.com/JustinSDK/mBlockArduino/blob/master/resources/zh_TW.po) 
