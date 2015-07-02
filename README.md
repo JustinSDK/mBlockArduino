@@ -2,7 +2,9 @@
 
 《用 mBlock 玩 Arduino - Starting from Scratch》書籍資料
 
-- 章節目錄
+- [章節目錄](http://openhome.cc/Gossip/Books/mBlockArduinoTOC.html)
+
+- [序](http://openhome.cc/Gossip/Books/mBlockArduinoPreface.html) 
 
 - 試讀內容
   - [1 認識Arduino](http://openhome.cc/Gossip/Books/mBlockArduino1-1and1-2.html)
