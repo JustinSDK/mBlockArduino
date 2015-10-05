@@ -15,3 +15,4 @@
 
 - [範例檔案](https://github.com/JustinSDK/mBlockArduino/tree/master/samples)
 - [mBlock 正體中文語系檔案](https://github.com/JustinSDK/mBlockArduino/blob/master/resources/zh_TW.po) 
+- [一刷堪誤](errata.md)
